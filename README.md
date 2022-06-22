@@ -1,19 +1,14 @@
 
 
 
-### Yago Felix da Silva
-
-
-
-<hr>
+<h1>Yago Felix da Silva</h1>
 
 ### Hi Devs! Welcome to my Github profile! 👋
-### My name is Yago
 
 
 <hr>
 
-Minhas Tecnologias
+Minhas Tecnologias 🖥️
 
 <div style="display: inline_block" />
   
@@ -53,5 +48,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<hr>
 
-![Snake animation](https://github.com/YagoFelix/YagoFelix/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block">
+  
+<a href="https://www.linkedin.com/in/yago-felix-12b29587/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/></a>     
+</div>
+
