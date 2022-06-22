@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<div style="display: inline_block">
-  
-<a href="https://www.linkedin.com/in/yago-felix-12b29587/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/></a>     
+<div>
+<a href = "mailto:y.felixdasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yago-felix-12b29587/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
