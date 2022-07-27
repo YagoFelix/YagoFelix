@@ -20,7 +20,7 @@ Minhas Tecnologias 🖥️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40px"  width="40px" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" color="white" height="40px"  width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" <i class="devicon-express-original-wordmark"></i> height="40px"  width="40px" />
                 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"  width="40px" />
 
