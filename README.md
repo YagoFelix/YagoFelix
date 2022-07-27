@@ -38,7 +38,7 @@ Minhas Tecnologias 🖥️
 
 
 </div>        
-
+<br>
 <div>
 <a href="https://github.com/YagoFelix">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoFelix&layout=compact&langs_count=7&theme=dracula"/>
