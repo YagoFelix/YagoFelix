@@ -11,7 +11,7 @@
 Minhas Tecnologias 🖥️
 
 <div style="display: inline_block" />
-<span style="background-color: gray"> Some green text 
+
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"  width="40px" />
                                                                                                                              
@@ -35,7 +35,8 @@ Minhas Tecnologias 🖥️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px"  width="40px" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40px"  width="40px" />
-</span>
+
+
 </div>        
           
 
